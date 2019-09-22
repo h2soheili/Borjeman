@@ -5,7 +5,7 @@
 <br/>
 <br/>
 <br/>
-<img src="src/image0.png" />
+<img src="src/image0.png" style="width:30%;"/>
 # operator:"chart"<br/>
 type: "unitstatus",<br/>
 buildingID: buildingID,   //  شناسه ساختمانی که واحد در ان قرار دارد

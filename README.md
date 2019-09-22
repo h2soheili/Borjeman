@@ -4,7 +4,7 @@
 
 
 <img src="src/image0.png" />
-# operator:"chart"
+# operator:"chart"<br/>
 type: "unitstatus",
 buildingID: buildingID,  // شناسه ساختمانی که واحد در ان قرار دارد
 unitID: ID //  شناسه واحد
@@ -13,7 +13,7 @@ unitID: ID //  شناسه واحد
 
 ------------------------------------------------------------------------------------------------------------------------------
 <img src="src/image1.png" />
-# operator:"chart"
+# operator:"chart" <br/>
  type: "unitpercent",
  buildingID: buildingID,  // شناسه ساختمانی که واحد در ان قرار دارد
  unitID: ID, // شناسه واحد 
